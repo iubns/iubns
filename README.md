@@ -18,42 +18,32 @@ Here are some ideas to get you started:
 <div align='center'>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=iubns's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome.&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=iubns's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=방문해%20주셔서%20감사합니다.&descAlignY=51&descAlign=62)
 
 
-### Welcome👋
+### 기본에 근본에 관심이 많은 개발자 iubns 입니다.👋
 
 <p></p>
 
 ### Technology Stack📚
 <div align='center'>
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  </div>
-    
-### ...
+  <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/></span>
+</div>
 
-### Platform🤹   
+
+### About Me👩‍💻
+
 <div align='center'>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  </div>
-<p></p>
-
+  <a href="https://velog.io/@iubns"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</div>
 
     
 ### My stats 🤓
   
 ![iubns's GitHub stats](https://github-readme-stats.vercel.app/api?username=iubns&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iubns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### About Me👩‍💻
-
-<div align='center'>
-  <a href="https://velog.io/"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  </div>
-<p></p>
 
 </div>
 
