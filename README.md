@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=iubns's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=세상이%20돌아가는%20원리를%20탐구하는%20개발자.&descAlignY=51&descAlign=62">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=iubns's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=세상을%20디버깅하는%20개발자.&descAlignY=51&descAlign=62">
 
 
-### 세상이 돌아가는 원리를 탐구하는 개발자 iubns 입니다.👋
+### 세상을 디버깅 하는 개발자, iubns 입니다.👋
 
     
 ### My stats 🤓
